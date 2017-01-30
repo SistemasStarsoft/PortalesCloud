@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.starsoft.portalescloud" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>PortalesCloud</name>
+    <name>Starsoft mobile</name>
     <description>
-        Aplicacion que redirige a los portales de Starsoft
+        Portales de Consulta Cloud de Starsoft GE
     </description>
     <author email="jmoreno@starsoft.com.pe" href="http://www.starsoft.com.pe">
         Sistemas Starsoft
