@@ -1,0 +1,51 @@
+@charset "UTF-8";
+body{
+	background: url(../img/Background.jpg) no-repeat top center;
+	background-size: auto;
+	background-color:#ff3322;
+}
+.container{
+	margin-bottom: 15px;
+}
+.fondooscuro {
+	background-color: rgba(0,0,0,0.5);
+	padding: 15px;
+	margin: 1px;
+}
+.textodorado {
+	color: #FFCC00;
+}
+.textonaranja {
+	color: #F39325;
+}
+.textoverde {
+	color: #76B82A;
+}
+.textoblanco {
+	color: #FFF;
+}
+.textocabecera{
+	text-align: right;
+}
+.ltr12{
+	font-size:12px;
+}
+.btn{
+	border-radius:0;
+}
+.btn-default{
+	border-color:#fff;
+}
+@media (max-width: 992px) {
+	.textocabecera{
+		text-align: center;
+	}
+	img{
+		max-height: 118px;
+	}
+}
+@media (max-width: 768px) {
+	.col-xs-3{
+		padding:0;
+	}
+}
