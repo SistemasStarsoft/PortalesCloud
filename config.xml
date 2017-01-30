@@ -11,7 +11,13 @@
         Sistemas Starsoft
     </author>
     <content src="index.html" />
-	<gap:plugin name="org.apache.cordova.inappbrowser"/>
+	<feature name="InAppBrowser">
+		<param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+	</feature>
+	<feature name="InAppBrowser">
+		<param name="ios-package" value="CDVInAppBrowser" />
+	</feature>
+	<feature name="InAppBrowser" />
 	<icon src="icon.png"/>
     <access origin="*" />
 </widget>
