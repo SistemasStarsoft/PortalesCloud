@@ -11,6 +11,7 @@
         Sistemas Starsoft
     </author>
     <content src="index.html" />
+	<gap:plugin name="org.apache.cordova.inappbrowser"/>
 	<icon src="icon.png"/>
     <access origin="*" />
 </widget>
