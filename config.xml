@@ -11,13 +11,7 @@
         Sistemas Starsoft
     </author>
     <content src="index.html" />
-	<feature name="InAppBrowser">
-		<param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
-	</feature>
-	<feature name="InAppBrowser">
-		<param name="ios-package" value="CDVInAppBrowser" />
-	</feature>
-	<feature name="InAppBrowser" />
+	<plugin name="cordova-plugin-inappbrowser" source="npm" />
 	<icon src="icon.png"/>
     <access origin="*" />
 </widget>
