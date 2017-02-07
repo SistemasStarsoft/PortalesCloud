@@ -9,5 +9,6 @@
     </author>
     <content src="index.html" />
     <icon src="icon.png" />
+    <splash src="splash.png" />
     <access origin="*" />
 </widget>
