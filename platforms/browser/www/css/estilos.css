@@ -1,8 +1,8 @@
 @charset "UTF-8";
 body{
-	background: url(../img/Background.jpg) no-repeat top center;
+	background: url(../imgs/Background.jpg) no-repeat top center;
 	background-size: auto;
-	background-color:#ff3322;
+	background-color:#F42A1F;
 }
 .container{
 	margin-bottom: 15px;
