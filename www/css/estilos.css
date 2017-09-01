@@ -28,13 +28,17 @@ body{
 	text-align: right;
 }
 .ltr12{
-	font-size:12px;
+	font-size:90%;
 }
 .btn{
 	border-radius:0;
 }
 .btn-default{
 	border-color:#fff;
+}
+.padv10{
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 @media (max-width: 992px) {
 	.textocabecera{
