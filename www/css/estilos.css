@@ -53,3 +53,7 @@ body{
 		padding:0;
 	}
 }
+.centradovertical {
+	display: flex;
+	align-items: center;
+}
